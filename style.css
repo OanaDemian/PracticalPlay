@@ -9,5 +9,22 @@ body {
   margin-bottom: 8px;
   font-size: 30px;
   padding: 8px;
+  text-align: center;
+}
+
+/*.text {
+  display: flex;
+  align-items: left;
+}*/
+a:link,
+a:visited {
+  color: green;
+  text-decoration: solid;
+  cursor: auto;
+}
+
+a:link:active,
+a:visited:active {
+  color: pink;
 }
 /*  */
